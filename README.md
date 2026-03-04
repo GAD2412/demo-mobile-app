@@ -68,7 +68,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -80,7 +80,7 @@ Ensure you have the latest stable version of [Flutter SDK installed](https://doc
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/nexus-wallet.git
+    git clone https://github.com/GAD2412/demo-mobile-app.git
     ```
 
 2.  **Navigate into the project folder:**
@@ -100,7 +100,7 @@ Ensure you have the latest stable version of [Flutter SDK installed](https://doc
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -113,5 +113,5 @@ Contributions are what make the open-source community such an amazing place to l
 ---
 
 <div align="center">
-  <p>Built with ❤️ using <strong>Flutter</strong>.</p>
+  <p>Built with using <strong>Flutter</strong>.</p>
 </div>
